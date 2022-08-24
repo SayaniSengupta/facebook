@@ -1,0 +1,24 @@
+2022-08-24 14:29:22,419 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-24 14:29:22,641 : INFO : test_login : login successfully
+2022-08-24 14:29:47,971 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-24 14:29:48,019 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-24 14:32:46,898 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-24 14:32:47,087 : INFO : test_login : login successfully
+2022-08-24 14:34:04,992 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-24 14:34:05,028 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-24 14:36:27,472 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-24 14:36:27,648 : INFO : test_login : login successfully
+2022-08-24 14:36:36,620 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-24 14:36:36,688 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-24 14:36:45,771 : INFO : test_settings : total number of blocked users:10
+2022-08-24 14:36:45,827 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-24 14:36:45,827 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-24 14:36:47,993 : INFO : test_logout : logout successfully
+2022-08-24 14:39:50,638 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-24 14:39:50,819 : INFO : test_login : login successfully
+2022-08-24 14:39:55,673 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-24 14:39:55,754 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-24 14:40:03,079 : INFO : test_settings : total number of blocked users:10
+2022-08-24 14:40:03,129 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-24 14:40:03,129 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-24 14:40:04,618 : INFO : test_logout : logout successfully
