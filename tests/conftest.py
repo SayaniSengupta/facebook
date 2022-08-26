@@ -9,8 +9,8 @@ def pytest_addoption(parser):
     parser.addoption(
         "--browser_name", action="store", default="chrome"
     )
-    parser.addoption("--email", action="store", default="email")
-    parser.addoption("--password", action="store", default="password")
+    parser.addoption("--email", action="store", default="")
+    parser.addoption("--password", action="store", default="")
 
 
 @pytest.fixture(scope="class")
@@ -31,3 +31,11 @@ def setup(request):
     driver.close()
 
 
+@pytest.fixture
+def param(request):
+    param = {'email': request.config.getoption('email'),
+             'password': request.config.getoption('password')}
+
+    if param['email'] is None and param['password'] is None:
+        pytest.skip()
+    return param

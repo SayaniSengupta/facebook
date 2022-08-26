@@ -1,24 +1,284 @@
-2022-08-24 14:29:22,419 : INFO : test_verify_LoginPage_title : title verified succesfully
-2022-08-24 14:29:22,641 : INFO : test_login : login successfully
-2022-08-24 14:29:47,971 : INFO : test_verify_profilePage_title : profile page title verified
-2022-08-24 14:29:48,019 : INFO : test_verify_profile_name : profile name verified successfully
-2022-08-24 14:32:46,898 : INFO : test_verify_LoginPage_title : title verified succesfully
-2022-08-24 14:32:47,087 : INFO : test_login : login successfully
-2022-08-24 14:34:04,992 : INFO : test_verify_profilePage_title : profile page title verified
-2022-08-24 14:34:05,028 : INFO : test_verify_profile_name : profile name verified successfully
-2022-08-24 14:36:27,472 : INFO : test_verify_LoginPage_title : title verified succesfully
-2022-08-24 14:36:27,648 : INFO : test_login : login successfully
-2022-08-24 14:36:36,620 : INFO : test_verify_profilePage_title : profile page title verified
-2022-08-24 14:36:36,688 : INFO : test_verify_profile_name : profile name verified successfully
-2022-08-24 14:36:45,771 : INFO : test_settings : total number of blocked users:10
-2022-08-24 14:36:45,827 : INFO : test_settings : successfully got the total number of blocked users
-2022-08-24 14:36:45,827 : INFO : test_settings : successfully got the total number of blocked users
-2022-08-24 14:36:47,993 : INFO : test_logout : logout successfully
-2022-08-24 14:39:50,638 : INFO : test_verify_LoginPage_title : title verified succesfully
-2022-08-24 14:39:50,819 : INFO : test_login : login successfully
-2022-08-24 14:39:55,673 : INFO : test_verify_profilePage_title : profile page title verified
-2022-08-24 14:39:55,754 : INFO : test_verify_profile_name : profile name verified successfully
-2022-08-24 14:40:03,079 : INFO : test_settings : total number of blocked users:10
-2022-08-24 14:40:03,129 : INFO : test_settings : successfully got the total number of blocked users
-2022-08-24 14:40:03,129 : INFO : test_settings : successfully got the total number of blocked users
-2022-08-24 14:40:04,618 : INFO : test_logout : logout successfully
+2022-08-25 17:34:52,966 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:34:53,138 : INFO : test_login : login successfully
+2022-08-25 17:34:57,486 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:34:57,590 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:35:07,444 : INFO : test_logout : logout successfully
+2022-08-25 17:36:05,028 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:36:05,206 : INFO : test_login : login successfully
+2022-08-25 17:36:09,650 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:36:09,733 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:36:19,641 : INFO : test_logout : logout successfully
+2022-08-25 17:37:28,262 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:37:28,435 : INFO : test_login : login successfully
+2022-08-25 17:37:32,997 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:37:33,077 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:37:37,738 : INFO : test_settings : mobile number verified successfully
+2022-08-25 17:37:38,953 : INFO : test_settings : total number of blocked users 10
+2022-08-25 17:37:38,953 : INFO : test_settings : total number of blocked users 10
+2022-08-25 17:37:39,003 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 17:37:39,003 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 17:37:39,003 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 17:37:40,443 : INFO : test_logout : logout successfully
+2022-08-25 17:40:04,215 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:40:04,394 : INFO : test_login : login successfully
+2022-08-25 17:40:08,070 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:40:08,129 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:40:17,998 : INFO : test_logout : logout successfully
+2022-08-25 17:41:05,006 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:41:05,186 : INFO : test_login : login successfully
+2022-08-25 17:41:09,892 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:41:09,958 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:41:19,637 : INFO : test_logout : logout successfully
+2022-08-25 17:50:37,278 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:50:37,456 : INFO : test_login : login successfully
+2022-08-25 17:50:45,996 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:50:46,078 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:50:59,669 : INFO : test_logout : logout successfully
+2022-08-25 17:57:16,726 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:57:16,899 : INFO : test_login : login successfully
+2022-08-25 17:57:22,441 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:57:22,522 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:57:29,573 : INFO : test_logout : logout successfully
+2022-08-25 17:58:46,473 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:58:46,651 : INFO : test_login : login successfully
+2022-08-25 17:58:51,498 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:58:51,622 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:58:59,699 : INFO : test_logout : logout successfully
+2022-08-25 17:59:41,296 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 17:59:41,474 : INFO : test_login : login successfully
+2022-08-25 17:59:46,438 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 17:59:46,518 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 17:59:53,183 : INFO : test_logout : logout successfully
+2022-08-25 18:01:50,120 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:01:50,294 : INFO : test_login : login successfully
+2022-08-25 18:01:55,369 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:01:55,494 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 18:02:05,072 : INFO : test_logout : logout successfully
+2022-08-25 18:04:49,778 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:04:49,957 : INFO : test_login : login successfully
+2022-08-25 18:04:57,506 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:04:57,654 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 18:05:08,630 : INFO : test_logout : logout successfully
+2022-08-25 18:11:41,136 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:11:41,311 : INFO : test_login : login successfully
+2022-08-25 18:11:45,832 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:11:45,967 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 18:11:55,551 : INFO : test_logout : logout successfully
+2022-08-25 18:16:05,990 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:16:06,165 : INFO : test_login : login successfully
+2022-08-25 18:16:11,002 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:16:11,192 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 18:16:39,910 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:16:40,088 : INFO : test_login : login successfully
+2022-08-25 18:16:47,911 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:16:47,942 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 18:23:01,698 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:23:01,862 : INFO : test_login : login successfully
+2022-08-25 18:23:04,379 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:24:13,884 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:24:14,052 : INFO : test_login : login successfully
+2022-08-25 18:24:16,820 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:26:53,472 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 18:26:53,648 : INFO : test_login : login successfully
+2022-08-25 18:26:57,254 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 18:26:57,340 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 22:37:03,599 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 22:37:04,178 : INFO : test_login : login successfully
+2022-08-25 22:37:04,202 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 22:37:37,643 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 22:37:37,799 : INFO : test_login : login successfully
+2022-08-25 22:37:47,998 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:01:51,756 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:01:51,933 : INFO : test_login : login successfully
+2022-08-25 23:01:57,402 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:02:17,413 : INFO : test_logout : logout successfully
+2022-08-25 23:04:41,366 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:04:41,541 : INFO : test_login : login successfully
+2022-08-25 23:04:47,222 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:04:47,275 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 23:07:09,001 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:07:09,180 : INFO : test_login : login successfully
+2022-08-25 23:07:11,780 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:07:56,666 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:07:56,848 : INFO : test_login : login successfully
+2022-08-25 23:08:02,110 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:08:02,171 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 23:08:13,703 : INFO : test_logout : logout successfully
+2022-08-25 23:24:35,104 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:24:35,285 : INFO : test_login : login successfully
+2022-08-25 23:24:38,928 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:24:39,056 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 23:24:48,114 : INFO : test_logout : logout successfully
+2022-08-25 23:26:17,228 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:26:17,411 : INFO : test_login : login successfully
+2022-08-25 23:26:20,740 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:26:20,862 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 23:26:40,285 : INFO : test_logout : logout successfully
+2022-08-25 23:27:55,900 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:27:56,072 : INFO : test_login : login successfully
+2022-08-25 23:27:58,684 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:27:58,755 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 23:28:04,569 : INFO : test_settings : mobile number verified successfully
+2022-08-25 23:30:53,290 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:30:53,466 : INFO : test_login : login successfully
+2022-08-25 23:30:56,588 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:31:01,304 : INFO : test_settings : mobile number verified successfully
+2022-08-25 23:31:02,462 : INFO : test_settings : total number of blocked users 1
+2022-08-25 23:31:02,462 : INFO : test_settings : total number of blocked users 1
+2022-08-25 23:31:02,506 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:31:02,506 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:31:02,506 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:31:04,915 : INFO : test_logout : logout successfully
+2022-08-25 23:32:10,486 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:32:10,666 : INFO : test_login : login successfully
+2022-08-25 23:32:14,054 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:32:19,545 : INFO : test_settings : mobile number verified successfully
+2022-08-25 23:32:20,684 : INFO : test_settings : total number of blocked users 1
+2022-08-25 23:32:20,684 : INFO : test_settings : total number of blocked users 1
+2022-08-25 23:32:20,754 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:32:20,754 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:32:20,754 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:32:23,321 : INFO : test_logout : logout successfully
+2022-08-25 23:32:39,808 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:32:39,980 : INFO : test_login : login successfully
+2022-08-25 23:32:45,791 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:34:16,009 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:34:16,211 : INFO : test_login : login successfully
+2022-08-25 23:34:55,244 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:34:55,419 : INFO : test_login : login successfully
+2022-08-25 23:35:01,270 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:35:07,652 : INFO : test_settings : mobile number verified successfully
+2022-08-25 23:35:09,194 : INFO : test_settings : total number of blocked users 10
+2022-08-25 23:35:09,194 : INFO : test_settings : total number of blocked users 10
+2022-08-25 23:35:09,247 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:35:09,247 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:35:09,247 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:35:11,474 : INFO : test_logout : logout successfully
+2022-08-25 23:35:43,363 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-25 23:35:43,545 : INFO : test_login : login successfully
+2022-08-25 23:35:47,992 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-25 23:35:48,108 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-25 23:35:54,064 : INFO : test_settings : mobile number verified successfully
+2022-08-25 23:35:55,260 : INFO : test_settings : total number of blocked users 10
+2022-08-25 23:35:55,260 : INFO : test_settings : total number of blocked users 10
+2022-08-25 23:35:55,305 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:35:55,305 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:35:55,305 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-25 23:35:57,556 : INFO : test_logout : logout successfully
+2022-08-26 11:08:06,147 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 11:08:06,394 : INFO : test_login : login successfully
+2022-08-26 11:08:06,400 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 11:08:12,102 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 11:08:29,694 : INFO : test_logout : logout successfully
+2022-08-26 11:33:36,034 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 11:33:36,211 : INFO : test_login : login successfully
+2022-08-26 11:33:59,182 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 11:33:59,209 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 11:34:31,229 : INFO : test_logout : logout successfully
+2022-08-26 12:45:43,841 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 12:45:43,861 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 12:47:05,339 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 12:47:05,518 : INFO : test_login : login successfully
+2022-08-26 12:47:15,079 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 12:47:15,106 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 12:47:28,226 : INFO : test_logout : logout successfully
+2022-08-26 12:51:25,451 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 12:51:25,627 : INFO : test_login : login successfully
+2022-08-26 12:51:31,448 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 12:51:31,521 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 12:51:44,475 : INFO : test_logout : logout successfully
+2022-08-26 12:58:57,120 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 12:58:57,297 : INFO : test_login : login successfully
+2022-08-26 12:59:02,738 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 12:59:02,847 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 12:59:13,231 : INFO : test_logout : logout successfully
+2022-08-26 13:02:11,395 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 13:02:11,569 : INFO : test_login : login successfully
+2022-08-26 13:02:19,191 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 13:02:19,220 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 13:02:26,530 : INFO : test_settings : 079981 62391
+2022-08-26 13:02:26,556 : INFO : test_settings : mobile number verified successfully
+2022-08-26 13:02:26,556 : INFO : test_settings : mobile number verified successfully
+2022-08-26 13:02:29,680 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:02:29,680 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:02:29,680 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:02:29,726 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:02:29,726 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:02:29,726 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:02:29,726 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:02:32,254 : INFO : test_logout : logout successfully
+2022-08-26 13:08:10,312 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 13:08:10,485 : INFO : test_login : login successfully
+2022-08-26 13:08:14,307 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 13:08:14,406 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 13:08:22,949 : INFO : test_settings : 079981 62391
+2022-08-26 13:08:22,968 : INFO : test_settings : mobile number verified successfully
+2022-08-26 13:08:22,968 : INFO : test_settings : mobile number verified successfully
+2022-08-26 13:08:26,281 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:08:26,281 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:08:26,281 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:08:26,323 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:08:26,323 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:08:26,323 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:08:26,323 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:08:28,772 : INFO : test_logout : logout successfully
+2022-08-26 13:12:11,624 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 13:12:11,794 : INFO : test_login : login successfully
+2022-08-26 13:12:17,430 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 13:12:17,532 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 13:12:28,645 : INFO : test_logout : logout successfully
+2022-08-26 13:13:07,779 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 13:13:07,955 : INFO : test_login : login successfully
+2022-08-26 13:13:12,098 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 13:13:12,179 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 13:13:20,300 : INFO : test_settings : 079981 62391
+2022-08-26 13:13:20,336 : INFO : test_settings : mobile number verified successfully
+2022-08-26 13:13:20,336 : INFO : test_settings : mobile number verified successfully
+2022-08-26 13:13:23,136 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:13:23,136 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:13:23,136 : INFO : test_settings : total number of blocked users 10
+2022-08-26 13:13:23,178 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:13:23,178 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:13:23,178 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:13:23,178 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 13:13:25,535 : INFO : test_logout : logout successfully
+2022-08-26 15:49:22,411 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 15:49:22,592 : INFO : test_login : login successfully
+2022-08-26 15:49:32,392 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 15:49:32,424 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 16:00:53,598 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 16:00:53,779 : INFO : test_login : login successfully
+2022-08-26 16:01:09,389 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 16:01:09,441 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 16:01:35,862 : INFO : test_logout : logout successfully
+2022-08-26 16:07:54,297 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 16:07:54,477 : INFO : test_login : login successfully
+2022-08-26 16:07:58,310 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 16:07:58,360 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 16:08:19,917 : INFO : test_logout : logout successfully
+2022-08-26 16:22:27,703 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 16:22:27,878 : INFO : test_login : login successfully
+2022-08-26 16:22:31,878 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 16:22:31,989 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 16:44:01,549 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 16:44:01,707 : INFO : test_login : login successfully
+2022-08-26 16:44:08,388 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 16:44:47,024 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 16:44:47,181 : INFO : test_login : login successfully
+2022-08-26 16:44:51,940 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 16:45:10,223 : INFO : test_settings : 076765 99764
+2022-08-26 16:45:10,242 : INFO : test_settings : mobile number verified successfully
+2022-08-26 16:45:10,242 : INFO : test_settings : mobile number verified successfully
+2022-08-26 16:45:13,252 : INFO : test_settings : total number of blocked users 3
+2022-08-26 16:45:13,252 : INFO : test_settings : total number of blocked users 3
+2022-08-26 16:45:13,252 : INFO : test_settings : total number of blocked users 3
+2022-08-26 16:45:13,306 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 16:45:13,306 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 16:45:13,306 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 16:45:13,306 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 16:45:14,747 : INFO : test_logout : logout successfully
+2022-08-26 16:48:18,295 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 16:48:18,453 : INFO : test_login : login successfully
+2022-08-26 16:48:22,134 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 16:48:39,860 : INFO : test_settings : 076765 99764
+2022-08-26 16:48:42,027 : INFO : test_logout : logout successfully
