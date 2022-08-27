@@ -12,11 +12,20 @@ class LoginPage:
         self.driver = driver
 
     def user_name(self):
-        return self.driver.find_element(*LoginPage.USER_NAME).send_keys(TestData.USER_NAME)
+        """
+          method to get the username
+        """
+        return self.driver.find_element(*LoginPage.USER_NAME)
 
     def password(self):
-        return self.driver.find_element(*LoginPage.PASSWORD).send_keys(TestData.PASSWORD)
+        """
+          method to get the password
+        """
+        return self.driver.find_element(*LoginPage.PASSWORD)
 
     def login_button(self):
+        """
+         method to click on login button
+        """
         return self.driver.find_element(*LoginPage.LOGIN_BUTTON).click()
 

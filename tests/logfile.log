@@ -282,3 +282,68 @@
 2022-08-26 16:48:22,134 : INFO : test_verify_profilePage_title : profile page title verified
 2022-08-26 16:48:39,860 : INFO : test_settings : 076765 99764
 2022-08-26 16:48:42,027 : INFO : test_logout : logout successfully
+2022-08-26 17:00:28,242 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 17:00:28,407 : INFO : test_login : login successfully
+2022-08-26 17:00:52,806 : INFO : test_settings : 076765 99764
+2022-08-26 17:00:52,834 : INFO : test_settings : mobile number verified successfully
+2022-08-26 17:00:52,834 : INFO : test_settings : mobile number verified successfully
+2022-08-26 17:00:55,730 : INFO : test_settings : total number of blocked users 3
+2022-08-26 17:00:55,730 : INFO : test_settings : total number of blocked users 3
+2022-08-26 17:00:55,730 : INFO : test_settings : total number of blocked users 3
+2022-08-26 17:00:55,779 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:00:55,779 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:00:55,779 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:00:55,779 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:00:57,884 : INFO : test_logout : logout successfully
+2022-08-26 17:04:40,041 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 17:04:40,195 : INFO : test_login : login successfully
+2022-08-26 17:05:08,315 : INFO : test_settings : 076765 99764
+2022-08-26 17:05:08,346 : INFO : test_settings : mobile number verified successfully
+2022-08-26 17:05:08,346 : INFO : test_settings : mobile number verified successfully
+2022-08-26 17:05:10,871 : INFO : test_settings : total number of blocked users 3
+2022-08-26 17:05:10,871 : INFO : test_settings : total number of blocked users 3
+2022-08-26 17:05:10,871 : INFO : test_settings : total number of blocked users 3
+2022-08-26 17:05:10,920 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:05:10,920 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:05:10,920 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:05:10,920 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:05:13,688 : INFO : test_logout : logout successfully
+2022-08-26 17:06:08,240 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 17:06:08,417 : INFO : test_login : login successfully
+2022-08-26 17:06:13,693 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 17:06:15,776 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 17:10:37,638 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-26 17:10:37,812 : INFO : test_login : login successfully
+2022-08-26 17:10:42,510 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-26 17:10:44,593 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-26 17:10:51,720 : INFO : test_settings : 079981 62391
+2022-08-26 17:10:51,783 : INFO : test_settings : mobile number verified successfully
+2022-08-26 17:10:51,783 : INFO : test_settings : mobile number verified successfully
+2022-08-26 17:10:54,037 : INFO : test_settings : total number of blocked users 10
+2022-08-26 17:10:54,037 : INFO : test_settings : total number of blocked users 10
+2022-08-26 17:10:54,037 : INFO : test_settings : total number of blocked users 10
+2022-08-26 17:10:54,079 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:10:54,079 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:10:54,079 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:10:54,079 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-26 17:10:55,836 : INFO : test_logout : logout successfully
+2022-08-27 12:44:07,695 : INFO : test_verify_LoginPage_title : title verified succesfully
+2022-08-27 12:44:08,059 : INFO : test_login : login successfully
+2022-08-27 12:44:08,081 : INFO : test_verify_profilePage_title : profile page title verified
+2022-08-27 12:44:15,347 : INFO : test_verify_profile_name : profile name verified successfully
+2022-08-27 12:44:25,869 : INFO : test_settings : 079981 62391
+2022-08-27 12:44:25,903 : INFO : test_settings : 079981 62391
+2022-08-27 12:44:25,903 : INFO : test_settings : 079981 62391
+2022-08-27 12:44:25,904 : INFO : test_settings : mobile number verified successfully
+2022-08-27 12:44:25,904 : INFO : test_settings : mobile number verified successfully
+2022-08-27 12:44:25,904 : INFO : test_settings : mobile number verified successfully
+2022-08-27 12:44:29,179 : INFO : test_settings : total number of blocked users 10
+2022-08-27 12:44:29,179 : INFO : test_settings : total number of blocked users 10
+2022-08-27 12:44:29,179 : INFO : test_settings : total number of blocked users 10
+2022-08-27 12:44:29,179 : INFO : test_settings : total number of blocked users 10
+2022-08-27 12:44:29,259 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-27 12:44:29,259 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-27 12:44:29,259 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-27 12:44:29,259 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-27 12:44:29,259 : INFO : test_settings : successfully got the total number of blocked users
+2022-08-27 12:44:31,773 : INFO : test_logout : logout successfully
