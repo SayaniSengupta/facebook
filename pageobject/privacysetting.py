@@ -65,9 +65,7 @@ class Privacy(BasePage):
         return self.driver.find_element(*Privacy.NUMBER)
 
     def click_blocking(self):
-        """
-        click on blocking
-        """
+    def click_blocking(self):
         self.driver.find_element(*Privacy.BLOCKING).click()
 
     def click_edit(self):
