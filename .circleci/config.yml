@@ -7,7 +7,7 @@ jobs:
       - run: |
           curl -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/fossas/fossa-cli/master/install-latest.sh | bash
       - checkout
-      - run: <build command>
+      # - run: <build command>
       - run:
           command: FOSSA_API_KEY=8ffb6c4847b8a873e0fbccc8a16d3527 fossa analyze
           working_directory: SayaniSengupta/facebook
@@ -16,7 +16,7 @@ jobs:
       - image: cimg/python:3.8
     steps:
       - checkout
-      - run: <test command>
+      # - run: <test command>
       - run:
           command: fossa test
           working_directory: SayaniSengupta/facebook
