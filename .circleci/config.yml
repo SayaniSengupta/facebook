@@ -3,15 +3,17 @@ jobs:
   build:
     docker:
       - image: cimg/python:3.8
+    working_directory: https://github.com/SayaniSengupta/facebook
     steps:
+      - checkout
       - run: |
           curl -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/fossas/fossa-cli/master/install-latest.sh | bash
-      - checkout
+      
       # - run: <build command>
       - run:
         
           command: FOSSA_API_KEY=8ffb6c4847b8a873e0fbccc8a16d3527 fossa analyze
-          working_directory: https://github.com/SayaniSengupta/facebook
+          
   test:
     docker:
       - image: cimg/python:3.8
@@ -21,7 +23,6 @@ jobs:
       - run:
           command: fossa test
           working_directory: https://github.com/SayaniSengupta/facebook
-              cd requirements.txt
 workflows:
   version: 2
   build_and_test:
