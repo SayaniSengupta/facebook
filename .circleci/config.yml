@@ -11,7 +11,7 @@ jobs:
       - run:
         
           command: FOSSA_API_KEY=8ffb6c4847b8a873e0fbccc8a16d3527 fossa analyze
-          working_directory: SayaniSengupta/facebook
+          working_directory: https://github.com/SayaniSengupta/facebook
   test:
     docker:
       - image: cimg/python:3.8
@@ -20,7 +20,7 @@ jobs:
       # - run: <test command>
       - run:
           command: fossa test
-          working_directory: SayaniSengupta/facebook
+          working_directory: https://github.com/SayaniSengupta/facebook
 workflows:
   version: 2
   build_and_test:
