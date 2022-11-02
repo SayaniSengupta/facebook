@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: cimg/python:3.8
-    working_directory: ~/facebook 
+    working_directory: ~/facebook/
     steps:
       - checkout
       - run: |
